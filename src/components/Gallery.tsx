@@ -2,9 +2,9 @@ import React, { useState } from 'react';
 import { ArrowRight, Heart, X, Camera } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
-import Img1 from '../imgs/AKKA2.jpeg'
+import Img1 from '../imgs/deekshi2.jpeg'
 import Img2 from '../imgs/AKKA3.jpeg'
-import Img3 from '../imgs/AKKA1.jpeg'
+import Img3 from '../imgs/deekshi1.webp'
 
 interface GalleryProps {
   onNext: () => void;
