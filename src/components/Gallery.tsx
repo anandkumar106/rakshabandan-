@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 
 import Img1 from '../imgs/deekshi2.jpeg'
 import Img2 from '../imgs/AKKA3.jpeg'
-import Img3 from '../imgs/deekshi1.webp'
+import Img3 from '../imgs/sravya1.jpeg'
 
 interface GalleryProps {
   onNext: () => void;
