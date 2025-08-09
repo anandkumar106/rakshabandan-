@@ -2,9 +2,9 @@ import React, { useState } from 'react';
 import { ArrowRight, Heart, X, Camera } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
-import Img1 from '../imgs/sravya4.jpeg'
-import Img2 from '../imgs/sravya2.jpeg'
-import Img3 from '../imgs/sravya3.jpeg'
+import Img1 from '../imgs/kusuma1.jpeg'
+import Img2 from '../imgs/img2.jpg'
+import Img3 from '../imgs/kusuma2.jpeg'
 
 interface GalleryProps {
   onNext: () => void;
@@ -22,7 +22,7 @@ const Gallery: React.FC<GalleryProps> = ({ onNext }) => {
     {
       url:Img2,
       caption: "Himawari like sister",
-      handwriting: "sukhibava"
+      handwriting: "Always laughing together"
     },
     {
       url: Img3,
