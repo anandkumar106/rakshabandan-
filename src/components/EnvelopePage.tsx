@@ -206,7 +206,7 @@ const EnvelopePage = ({ onNext }) => {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.5 }}
           >
-            To my Dearest Jaanu💕
+            To my Dearest Neelu💕
           </motion.p>
         </motion.div>
 
